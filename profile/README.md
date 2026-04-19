@@ -4,7 +4,8 @@ Electron desktop app for habit tracking, health metrics, and productivity with A
 
 ## What is "Do This Now"?
 
-DoThisNow is an intelligent productivity companion that helps you build better habits and maintain your health throughout the day. It combines habit tracking, health monitoring, and AI-powered recommendations to guide you toward your goals.
+DoThisNow is an intelligent productivity companion that helps you build better habits and maintain your health throughout the day.
+It combines habit tracking, health monitoring, and AI-powered recommendations to guide you toward your goals.
 
 The app learns from your behavior patterns and suggests the most impactful action you should take right now - whether that's completing a habit, taking a break, drinking water, or working on a goal. It's designed to reduce decision fatigue by telling you exactly what to do next based on your priorities, schedule, and current state.
 
